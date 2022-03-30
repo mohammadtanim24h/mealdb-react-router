@@ -5,6 +5,7 @@ import Header from "./components/Header/Header";
 import { Route, Routes } from "react-router-dom";
 import NotFound from "./components/NotFound/NotFound";
 import Meals from "./components/Meals/Meals";
+import MealDetail from "./components/MealDetail/MealDetail";
 
 function App() {
     return (
@@ -13,6 +14,7 @@ function App() {
             <Routes>
                 <Route path="/" element={<Home></Home>}></Route>
                 <Route path="/meals" element={<Meals></Meals>}></Route>
+                <Route path="/meal/:mealdb" element={<MealDetail></MealDetail>}></Route>
                 <Route path="*" element={<NotFound></NotFound>}></Route>
             </Routes>
         </div>
