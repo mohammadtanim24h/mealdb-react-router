@@ -1,0 +1,16 @@
+import React from 'react';
+
+const About = () => {
+    return (
+        <div className='d-flex justify-content center m-5'>
+            <div className='p-3 shadow m-3 rounded-lg lead'>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste architecto ducimus ipsam, dolores omnis sint voluptatem quod ipsum. Dignissimos corrupti sunt maiores pariatur fugit. Culpa aliquid atque esse corporis praesentium, id cupiditate dolorum? Perspiciatis molestias temporibus alias blanditiis? Natus laborum quibusdam incidunt libero eos temporibus nostrum, ut labore eius, culpa quod sunt quas veriferendis sit provident harum, quod ab quos aperiam. Adipisci sint molestias illum eaque odit ullam repellat nihil doloribus itaque quisquam, aliquid error dignissimos non quibusdam facere sit vel alias quaerat dolores atque ipsa? Vitae pariatur fuga itaque, voluptates tempora error odio quae facere amet neque assumenda quia omnis sequi, iste ullam, maiores tenetur et molestiae recusandae est excepturi nobis dolor ut natus. Quos qui quisquam consectetur, dolorum optio laudantium aspernatur deserunt nostrum commodi saepe porro incidunt ipsa minus corrupti doloremque recusandae ipsum laborum nemo voluptate quasi? Dolor non consectetur nostrum in nulla beatae nobis magni optio quas repellendus possimus autem minus, porro sint dolore eveniet nemo error laboriosam hic voluptas accusantium accusamus velit cupiditate voluptate! Dolores sequi dolore totam accusamus. Sequi excepturi sed rem accusamus impedit ad.</p>
+            </div>
+            <div className='p-3 shadow m-3 rounded-lg lead'>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Et odio aliquid itaque delectus id repudiandae quis, quisquam quibusdam aspernatur dolorum error blanditiis adipisci exercitationem doloremque fuga deleniti voluptatum earum. Veritatis consectetur exercitationem provident aut, quaerat sequi excepturi dicta aliquam omnis delectus voluptas aspernatur! Similique natus dolor veritatis voluptatem r minima asperiores tempora quod beatae ad quae eum accusantium voluptatem error eligendi, atque inventore, dolorem eveniet quidem maxime iste quibusdam explicabo pariatur a impedit. Ipsa, similique reprehenderit eaque voluptatum porro optio eligendi repellat, at perspiciatis ex officiis numquam velit quia consectetur ipsum? Nam labore commodi, sapiente perferendis eligendi sunt hic, illo officia magni adipisci officiis similique! Accusamus doloremque neque quibusdam autem pariatur officiis magnam commodi quia quisquam minima quos nulla ea adipisci cupiditate sit temporibus maxime cum, deserunt quod veritatis cumque asperiores qui hic ipsa. Molestiae, tempora tempore culpa hic cumque, nam iusto enim exercitationem porro quidem consequuntur! Veritatis ullam laudantium maxime quidem dolorum adipisci tempore vel in aspernatur dolor deserunt perferendis, velit officia corporis itaque enim minus. Possimus a labore vel deserunt ipsum reprehenderit fugit?</p>
+            </div>
+        </div>
+    );
+};
+
+export default About;
